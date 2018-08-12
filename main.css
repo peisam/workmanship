@@ -1,0 +1,18 @@
+html, body, ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden
+}
+
+li {
+  list-style: none;
+}
+
+.item {
+  width: 100%;
+}
+.item-img {
+  width: 101%;
+
+ }
