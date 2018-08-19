@@ -5,6 +5,13 @@ html, body, ul {
   overflow-x: hidden
 }
 
+@media screen and (min-width: 800px) {
+  body {
+    width: 800px;
+    margin: 0 auto;
+  }
+}
+
 li {
   list-style: none;
 }
